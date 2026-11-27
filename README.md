@@ -1,5 +1,5 @@
 # git-practice
 Practice to code from scratch
-Hi, I am Kaavya 
+Hi, feature b overwritten   
 
 Feature A code

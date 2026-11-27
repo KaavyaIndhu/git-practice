@@ -1,7 +1,7 @@
 # git-practice
 Practice to code from scratch
 
-Hi, I am Kaavya from main 
+Hi, I am KaavyaIndhu and I am practicing to code from scratch.  
 
 
-Feature A code
+
